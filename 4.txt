@@ -1,1 +1,5 @@
+
 merge conflict resolved
+
+identifying the merge conflict and resolving it
+
