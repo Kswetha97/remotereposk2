@@ -1,0 +1,2 @@
+gibberish/dirty working directory 
+for stash
